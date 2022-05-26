@@ -1,0 +1,7 @@
+name = "worker-typescript-template"
+main = "src/index.ts"
+account_id = "74731f4788f4463350445a5f7c36d5b3"
+workers_dev = true
+compatibility_date = "2022-05-26"
+
+
